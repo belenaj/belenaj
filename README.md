@@ -1,10 +1,9 @@
 ### Hi there! I'm Jorge 👋
 ---
 #### I'm a Data Engineer 
-- 🔭 I’m currently working on Advanced Analytics jobs with AWS and Spark at adidas
+- 🔭 I’m currently working on Advanced Analytics with AWS and Spark at adidas
 - 👯 I’m open to collaborate on coding projects for environmental 🌱 initiatives 
-- 💬 Ask me about ...
-- ⚡ Fun fact: I love mountain biking, 
+- ⚡ Fun fact: I love mountain biking and bouldering
 
 #### **Languages and Tools:**
 <code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
@@ -17,7 +16,6 @@
 - Spark
 - SQL
 - AWS
-
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jbelenag/)](https://www.linkedin.com/in/jbelenag/)
 
