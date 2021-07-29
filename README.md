@@ -1,7 +1,7 @@
-### Hi there! I'm Jorge 👋
+### Hi there! It's Jorge 👋
 ---
 #### I'm a Data Engineer 
-- 🔭 I’m currently working on Advanced Analytics with Snowflake ❄️ and Spark at Vistaprint
+- 🔭 I’m currently working on Advanced Analytics with dbt, databricks and snowflake ❄️ at Vistaprint
 - 👯 I’m open to collaborate on coding projects for environmental 🌱 initiatives 
 - ⚡ Fun fact: I love mountain biking and bouldering
 
